@@ -1,0 +1,4036 @@
+1 Aaland Islands
+2 Aarhus
+3 Ababa
+5 Abasan
+6 Abbad Hill
+7 Abbottabad
+8 Abdulaziz City
+9 Aberdeen
+11 Abidjan
+12 Abkhaz
+13 Abkhazia
+17 Abram
+18 Abu Dhabi
+19 Abuja
+20 Abyan
+21 Abyei
+22 Acapulco
+23 Accra
+24 ACCRA
+25 Aceh Province
+26 Adamaoua
+27 Adan
+28 Adana
+30 Addington
+31 Addis
+32 Addis Ababa
+33 Adelaide
+34 Aden
+35 Adigrat
+38 Adriatic Sea
+39 Adumim
+42 Aegean Sea
+43 Afghan Headquarters
+44 Afghanistan
+45 AFGHANISTAN
+46 Africa
+47 AFRICA
+48 African
+49 African Belt
+50 African Lakes
+51 African-led
+52 African Republic
+53 African Village
+54 Afrique
+55 Agadir
+56 Agboville
+57 Agdam
+58 Agdam District
+59 Agdere District
+61 Aghdam
+64 Ahn Park
+65 Aich Castle
+66 Ainsworth
+67 Aix-en-Province
+68 Akita
+69 Alabama
+70 Aland Islands
+71 al-Aqsa
+72 Alaska
+73 Alba
+74 Albania
+75 ALBANIA
+76 Albany
+77 Alberta
+78 Albuquerque
+79 Aldermaston
+80 Aldershot
+81 Aldi
+83 Aleppo
+84 Alexander Island
+85 Alexandria
+86 Alger
+87 Algeria
+88 ALGERIA
+89 Algerian Republic
+90 Algiers
+92 Alianza
+93 Alicante
+95 Allahabad
+96 Allentown
+99 Almaty
+100 Almeria
+102 al-Quds
+103 Al-Quds
+104 AL-QUDS AL-SHARIF
+105 Altai Mountains
+106 Alves
+107 Amacuro Delta
+108 Amarillo
+109 Amazon
+110 Amazon Basin
+111 Amazon River
+112 Ambassador Hill
+113 Ambassador Park
+114 Ambon
+115 AMERICA
+116 American Samoa
+118 Amsterdam
+119 Amundsen Sea
+120 Anaheim
+121 Anbar
+122 Anbar Province
+124 anchorage
+125 Anchorage
+126 Andaman
+127 Anderson
+128 Andes
+129 Andes Mountains
+130 Andhra
+131 Andijan
+132 Andorra
+133 Andreas
+134 Anegada
+136 Angeles
+138 Anglican
+139 Angola
+140 ANGOLA
+141 Anguilla
+143 Anjouan
+144 Ankara
+146 Annaba
+147 Annan
+148 Annapolis
+149 Annobón
+150 Antalaha
+151 Antalya
+152 Antananarivo
+153 Antarctic
+154 Antarctica
+155 Antarctic sea
+156 Antigua
+157 Antigua and Barbuda
+158 Antilles
+159 Antwerp
+160 Aotearoa
+161 Apia
+162 Apostolos
+163 Aqaba
+164 Arabian Sea
+165 Arab Republic
+166 Arad
+167 Aragon
+168 Aral sea
+169 Aral Sea
+170 Arauco
+171 Arbil
+172 Archipelagic sea
+174 Arctic Ocean
+175 Arctic Sea
+177 Area
+178 Arecibo
+179 Arequipa
+180 argentina
+181 Argentina
+182 Arhus
+184 Arizona
+185 Arkansas
+186 Arkhangelsk
+187 Arlington
+188 Arlington Heights
+190 Armenia
+191 Arnold
+193 Arsenal
+195 Artibonite
+196 Artic Ocean
+197 Artigas Station
+198 Aruba
+199 Arusha
+201 Ascension Island
+203 Ashkalija
+204 Asia
+205 Asia-
+206 ASIA
+207 Asian
+208 Asian States
+209 Asi River
+210 Askale
+211 Asmara
+212 ASOPAZCO
+214 Assam
+215 Aswan
+216 Atauro
+217 Atbara
+218 Atbarah River
+219 Athens
+221 Atlanta
+222 Atlantic
+223 Atlantic Coast
+224 Atlantic Ocean
+225 Atlantic sea
+226 Atmosphere-Ocean
+227 Attika
+228 Auckland
+229 Audley
+232 Austin
+233 Australasia
+234 Australia
+235 Australian
+236 Australian Desert
+237 austria
+238 Austria
+239 AUSTRIA
+241 Auvergne
+242 Aveiro
+243 Aviv
+244 Avivim
+245 Avon
+246 Ayacucho
+247 Aydin
+248 Ayeyarwady Delta
+250 Azerbaidjan
+251 Azerbaijan
+252 AZERBAIJAN
+253 Azerbaijani Republic
+255 Azua
+256 Baalback
+257 Babel
+258 Babil
+259 Babin
+260 Badajoz
+261 Badakhshan
+262 Badakhshan Province
+263 Badakhstan
+264 Badghis
+265 Bafata
+266 Baghdad
+267 Bagher Republic
+271 Bahama Islands
+272 Bahamas
+274 Bahia
+275 Bahn
+276 Bahrain
+277 BAHRAIN
+278 Baidoa
+279 Baikonur 
+280 Bailundo
+281 Baja
+282 Bakol
+283 Bakool
+284 baku
+285 Baku
+286 Baku City
+287 Bala
+288 Balboa
+289 Baldwin
+290 Bali
+291 Balikesir
+292 Balkan
+293 Balkans
+295 Balochistan
+296 Balochistan Province
+297 Baltic
+298 Baltics
+299 Baltic Sea
+300 Baltimore
+301 Baluchistan
+302 Bamako
+303 Bamyan
+304 Bamyan Province
+305 Bandar
+306 Bandar Seri Begawan
+307 Bandipora District
+308 Bandundu
+309 Bandung
+310 Bangalore
+311 Bangalor Square
+312 bangkok
+313 Bangkok
+314 BANGKOK
+315 Bangladesh
+316 BANGLADESH
+317 Bangui
+318 Banja
+319 Banjul
+320 Banya
+321 Barahona
+322 Baranja
+323 Barbados
+324 BARBADOS
+325 Barbuda
+326 Barcelona
+327 Barents
+328 Barentu
+329 Barey
+330 Bari
+331 Barinas
+332 Barletta
+334 Barnes
+335 Barney
+336 Barrancabermeja
+337 Barranquilla
+339 Barry
+340 Basel
+341 Bashkir Republic
+342 Basilicata
+343 Basingstoke
+344 Basra
+345 Basra Canal
+346 Basrah
+347 Bassa County
+348 Bassas da India
+350 Bastia
+351 Bata
+352 Battambang
+353 Batticaloa
+354 Bayern
+356 Beach
+357 Beal
+359 Beaufort Sea
+361 Bedford
+365 beijing
+366 Beijing
+367 BEIJING
+368 Beira
+369 Beirut
+370 Beiteddine
+371 Beja
+372 Bekaa
+373 Bekaa Valley
+374 Békéscsaba
+375 Bel-Air
+376 Belarus
+377 BELARUS
+378 Belau
+379 Belem
+380 Beletweyne
+381 Belfast
+382 Belgium
+383 BELGIUM
+384 Belgorod
+385 Belgrade
+387 Belize
+388 Belize City
+389 Belize District
+390 Belmopan
+391 Belo Horizonte
+392 Benghazi
+393 Bengo Province
+394 Benguela
+395 Ben Gurion Airport
+396 Beni
+397 Benin
+398 BENIN
+400 Benxi City
+401 Beqa
+402 Beqaa Valley
+403 Bergen
+404 Bering Sea
+405 Bering Strait
+406 Berkeley
+407 Berlin
+408 Berlin Wall
+409 Bermejo River
+410 Bermuda
+411 Bermudians
+412 Bern
+413 Berne
+414 BERNE
+415 Berwick
+416 Beslan
+417 Bethel
+418 Bethesda
+419 bethlehem
+420 Bethlehem
+421 BETHLEHEM
+422 Betun
+423 Beverly Hills
+424 Beyrouth
+425 Bhutan
+426 Biak
+427 Biarritz
+428 Bié Province
+429 Bihar
+430 Bihor
+432 bilbao
+433 Bilbao
+434 Bilsborrow
+436 Birao
+437 Birdsall
+439 Birka
+440 Birmaza
+441 Birmingham
+443 Bishkek
+444 Bissau
+445 Bitola
+447 Blackmore
+448 Black Sea
+449 Blackwater
+450 Blackwell
+451 Blakeney
+452 Blantyre
+454 Bloomington
+455 Bobonaro District
+456 Boca
+457 Bo District
+458 Bodo
+459 Boende
+460 Bogota
+461 Bogotá
+462 Bogotá District
+463 Bogra
+464 Bohai Sea
+466 Bolívar
+467 Bolivarian Republic
+468 Bolivia
+469 Bologna
+470 Bolton
+471 Bolzano
+472 Bombali District
+473 Bombay
+474 Bomi
+475 Bomi County
+476 Bomi Hills
+477 Bonaire
+478 Bong County
+479 bonn
+480 Bonn
+481 Bonthe Island
+485 Bordeaux
+486 Borden
+487 Borders
+488 Borneo
+489 Borough
+490 Bosasso
+491 Bosawás
+492 Bosnia
+493 Bosnia-
+494 BOSNIA
+495 Bosporus Strait
+496 Boston
+497 Botswana
+498 Bouake
+499 Bougainville
+500 boulder
+501 Boulder
+502 Boulogne
+503 Boumerdes
+505 Bourne
+506 Bournemouth
+507 Brabant
+508 Bradley
+509 Braga
+510 Braila
+511 Brainerd
+512 Braithwaite
+514 Brasilia
+515 Brasov
+516 Bratislava
+517 BRATISLAVA
+518 brazil
+519 Brazil
+520 BRAZIL
+521 Brazzaville
+522 Brcko
+523 Brcko District
+524 Brčko District
+525 Bremen
+526 Bremerhaven
+527 Brescia
+528 Brest
+529 Brest Eastern 
+530 Bretagne
+532 Bridge
+533 Bridgeport
+534 Bridges
+535 BRIDGES
+536 Bridgetown
+538 Brigg
+539 Brighton
+540 Brindisi
+541 Brindisi Base
+542 Brisbane
+543 Brisbane 
+544 Britain
+545 Britain and Northern Ireland
+546 Britain and Northern Ireland 
+548 British Columbia
+549 British Indian Ocean Territory
+550 British Isles
+551 British Virgin Islands
+552 Brittany
+553 Brno
+554 Brno Czech Republic 
+555 Bromma
+556 Brooklyn
+557 Brough
+558 Brunei
+559 brunswick
+560 Brunswick
+561 Bruntland
+562 Brussels
+563 Bruxelles
+564 Bubanza
+565 Bubanza Province
+566 Bubiyan Island
+567 Bucaramanga
+568 Bucarest
+569 Bucharest
+570 BUCHAREST
+571 Bucuresti
+572 Budapest
+573 Buenaventura
+575 Buffalo
+576 Bujumbura
+577 Buka
+578 Bukavu
+579 Bulawayo
+580 Bulgan
+581 bulgaria
+582 Bulgaria
+583 BULGARIA
+585 Bunia
+586 Burdur
+587 Burgas
+588 Burgenland
+589 Burkin
+590 Burkina
+591 Burkina Faso
+592 Burkina Faso 
+593 BURKINA FASO
+594 Burma
+595 Burnett
+597 Burton
+598 Buru
+599 Burundi
+600 BURUNDI
+601 Burundian
+602 Burundians
+603 Bururi
+604 Busan
+606 Bushehr Province
+607 Bushmen
+608 Bushrod Island
+609 Butare
+610 Butte
+611 Buzi River
+612 Byumba
+613 Byumba Province
+614 Byzantium
+615 Cabinda
+616 Cabinda Province
+618 Cachan
+619 Cádiz
+621 Caicos Islands
+622 Cairns
+623 Cairo
+624 Cajamarca
+625 Calabria
+626 Calama
+627 Calcutta
+628 Caldwell
+629 Calgary
+630 Cali
+631 California
+632 Caloocan City
+634 Calvo
+635 cambodia
+636 Cambodia
+637 Cambridge
+638 Cameron
+639 Cameroon
+640 CAMEROON
+641 Campagna
+642 camp Alpha
+643 Campania
+644 camp Auschwitz
+646 Camp Bondsteel
+647 Camp Bonifas
+648 Camp David
+649 Camp Davids
+651 Campeche
+652 Camp Faouar
+653 Camp Garcia
+654 Camp García
+655 Camp Kessely
+656 Camp Khor
+657 Camp Kigali
+659 Camp Madiba
+661 camp Popular
+662 Camp Rousseau
+663 Camp Schefflein
+664 Camp Schieffelin
+665 Camp Schiefflin
+666 Camp Slim
+667 Camp Ziouani
+668 canada
+669 Canada
+670 CANADA
+671 Canada Park
+673 Canadian
+674 Cañar
+675 Canarias
+676 Canary Islands
+677 Canberra
+678 Cancun
+679 Cankuzo
+680 Cannes
+681 Canouan
+682 Cantabria
+684 Canterbury
+685 canton
+686 Canton
+688 Cape Breton
+689 Cape Canaveral
+690 Cape Coast
+691 Cape Kobila
+692 Cape Mount
+693 Cape Mount County
+694 Cape Town
+695 Cape Verde
+696 CAPE VERDE
+697 Cape Verdeans
+698 Capitol Hill
+701 Caracas
+702 Cardiff
+703 Carey
+706 Caribbean
+707 CARIBBEAN
+708 Caribbean Basin
+709 Caribbeanc
+710 Caribbean Islands
+711 Caribbean Ocean
+712 Caribbean sea
+713 Caribbean Sea
+714 CARICOM
+715 CARICOM Village
+716 Carne
+717 Caroni
+719 Carpathian River
+720 Carpathians
+721 Carribbean
+722 Carriles
+724 Carshalton
+725 Cartagena
+726 CARTAGENA
+727 Cartago
+728 Carthage
+729 Casablanca
+730 Casamance
+731 Casanare
+732 Cascade
+733 Cascais
+734 Caspian
+735 Caspian sea
+736 Caspian Sea
+737 Castel
+738 Castlereagh
+739 Castries
+740 Cataluña
+741 Catania
+742 Caucasian
+743 Caucasus
+745 Caucuses
+746 Cave Hill
+747 Cavendish
+749 Cayes
+751 Cayman Island
+752 Cayman Islands
+753 Cayo
+755 C. Denmark
+756 Ceara
+759 centrafricaine
+761 central Afghanistan
+762 central Africa
+763 Central Africa
+764 central African
+765 Central African 
+766 Central African Republic
+767 Central African Republic 
+768 Central Africans
+769 Central America
+770 Central American
+771 Central Americans
+772 central Andes
+773 central Angola
+774 Central Antarctica
+776 central Asia
+777 Central Asia
+778 Central Asian
+779 Central-Asian
+780 Central Assembly
+781 central Atrato
+782 central Baghdad
+783 central Baku
+784 Central Banks
+785 central Beirut
+786 central Bhutan
+787 central Bosnia
+790 central Burma
+791 central Cairo
+794 Central Corridor
+795 Central Corridors
+796 Central Criminal
+797 central Darfur
+798 Central District
+799 central Dronning
+800 Central-Eastern
+801 Central Eastern Europe
+803 Central Emergency
+804 Central Equal
+805 Central Equatoria
+806 central EU
+807 central Europe
+808 Central Europe
+809 Central European
+812 central Freetown
+813 Central Germany
+814 central gGovernment
+815 central Government
+816 Central Government
+817 central Governments
+818 Central Highlands
+819 central IHL
+820 central IMIS
+821 Central India
+822 Central Indian Ocean
+823 Central Intelligence
+824 central Iraq
+825 central Israel
+826 central Italy
+827 central Jamaica
+828 central Japan
+829 Central Kalahari
+830 central Kalimantan
+831 central Katanga
+832 central Kosovo
+833 central Lebanon
+835 central London
+836 Central Luzon
+837 Central Macedonia
+838 central Maghreb
+839 Central Mail
+841 central Medellín
+842 Central Minsk District
+843 central Mogadishu
+844 central Montserrat
+845 central Mozambique
+846 central Myanmar
+847 central Namibia
+848 central Nepal
+849 Central Node
+850 central Norrland
+851 Central Organ
+852 Central Organisation
+853 central Oslo
+854 Central Oslo
+855 central Pacific
+856 Central Pacific
+857 central Pacific Ocean
+858 Central Pacific ocean
+859 Central Pacific Ocean
+861 Central Planning
+862 Central Plateau
+863 Central Powers
+864 Central Prison
+865 central Pristina
+866 Central Province
+868 central Punjab
+869 Central Region
+871 central Repertory
+874 central Romania
+875 Central Sector
+876 Central Sectors
+877 central Serbia
+878 Central Serbia
+879 central Slovenia
+881 central Somalia
+882 Central Somalia
+883 central Sri Lanka
+884 central State
+885 central Sudan
+886 central Suriname
+887 Central Suriname
+888 central Taliban
+889 central Thailand
+890 central Treaty
+894 Central Unit
+896 central United
+897 central U.S.
+898 Central Valley
+899 central Vanuatu
+900 Central West
+901 central West Bank
+903 Cernica
+904 Cernice
+905 Cess County
+907 Chaco
+908 Chad
+910 Chalk River
+911 Champagne Beach
+912 Channel Islands
+913 Charikar
+914 Charles
+915 Charles Mountains
+916 Charlton
+919 Châtelet
+920 Chatham
+922 Chattagram
+923 Chattisgarh
+924 Chechen
+925 Chechen Republic
+926 Chechnya
+927 Cheju
+928 Chelmsford
+929 Chelsea
+930 Cheltenham
+932 Chennai
+933 Chernobyl
+934 Cheshire
+935 Chesney Hill
+936 Chester
+937 Chetumal
+938 Chiapas
+939 Chiba
+941 Chicago
+942 Chichester
+944 Chihuahua
+945 Chile
+947 Chimoio
+948 china
+949 China
+950 CHINA
+952 Chinandega
+953 China Republic
+954 China Sea
+955 China Straits
+956 Chisholm
+957 Chisinau
+958 Chittagong
+959 Chittagong Hill
+960 Chitwan District
+961 Choiseul
+962 Chol Republic
+963 Christmas Island
+964 Chubut
+965 Chukchi Sea
+966 Chukotka
+967 Churches
+969 Chu River
+971 Cibitoke
+972 Cibitoké
+973 Cienfuegos
+974 City
+975 CITY
+976 Ciudad
+977 Ciudad del Este
+978 Civitavecchia
+980 Clay County
+981 Clermont-Ferrand
+982 Clive
+984 Coast
+985 Cobán
+986 Cochabamba
+988 Coco River
+990 Coimbra
+991 Colima
+993 Cologne
+994 colombia
+995 Colombia
+996 COLOMBIA
+997 Colombo
+998 Colonia
+999 Colonialism
+1000 Colorado
+1001 Colorado Springs
+1002 columbia
+1003 Columbia
+1005 Comayagua
+1006 COMESA
+1007 Commonwealth
+1008 Commonwealth Bay
+1009 Comores
+1010 Comoros
+1011 Comoros Islands
+1012 Conakry
+1013 congo
+1014 Congo
+1015 CONGO
+1016 Congo Basin
+1017 Congo-Ocean
+1018 Congo River
+1019 Constanta
+1020 Constantine
+1022 Cook Islands
+1024 Copenhagen
+1025 COPENHAGEN
+1026 Copenhagen County
+1027 Copenhague
+1029 Córdoba
+1030 Corfu Channel
+1031 Corinth
+1032 Cork Hill
+1034 Coronado
+1037 Costa Rica
+1038 COSTA RICA
+1039 Cotacachi
+1041 côte
+1042 Côte
+1043 CÔTE
+1044 Côte d Ivoire
+1045 Cotonou
+1046 Cotopaxi
+1047 Cotopaxi Province
+1050 Craiova
+1051 Crawford
+1052 Cray
+1053 Croatia
+1054 Croatia 
+1055 CROATIA
+1056 Croatian
+1057 Croatian Republic
+1059 Cross-Strait
+1060 Crown Bay
+1061 Cruzeiro do Sul
+1062 Cuango Valley
+1063 Cuba
+1064 CUBA
+1065 Cubango Province
+1066 Cúcuta
+1067 Cuenca
+1068 Culebra
+1069 Cullen
+1070 Cunene Province
+1071 Curacao
+1072 Curitiba
+1073 Curtis 
+1074 cusco
+1075 Cusco
+1076 Cyangugu
+1077 Cypermethrin
+1078 Cyprus
+1079 CYPRUS
+1080 Cyprus Republic
+1081 Czech 
+1082 Czechoslovakia
+1083  Czech Republic 
+1084 Czech Republic
+1085 Czech Republic 
+1086 CZECH REPUBLIC
+1087 Czestochowa
+1088 Dadar
+1089 Dagestan
+1090 Daghestan
+1091 Dahod
+1092 Dahomey
+1093 Dahuk
+1094 Dajabon
+1095 Dakar
+1098 Dalaman
+1099 Dalian
+1100 Dalits
+1101 Dallas
+1102 Damascus
+1103 Dammam
+1106 Danube River
+1107 Darfur
+1108 Darkwood
+1109 Darnton-Hill
+1110 Dartford
+1111 Darwin
+1114 Davis Station
+1115 Davis Strait
+1117 Dayton
+1118 Dead Sea
+1119 Deep Ocean
+1120 Deep Sea
+1121 Deep-Sea
+1122 Dehloran
+1123 Deir
+1124 DeKalb County
+1125 Delaware
+1127 Deleig
+1128 Delhi
+1129 Delta
+1130 Democratic Republic
+1131 Denmark
+1132 DENMARK
+1133 Denpasar
+1134 Departments
+1136 Derya
+1137 Devon Island
+1138 Devonshire
+1140 Dhahran
+1141 Dhaka
+1142 Dhaka 
+1145 Dibra
+1146 Digos
+1148 Dili
+1149 District of Columbia
+1151 Diwaniyah
+1152 Diyala
+1153 Diyarbakir
+1154 Djakarta
+1155 Djakovica
+1158 Djibouti
+1159 Djibouti City
+1160 Djolu
+1161 Dnieper River
+1162 Dniester
+1164 Dobšiná
+1165 Doda District
+1166 doha
+1167 Doha
+1168 Dokan
+1170 Dominica
+1171 dominicaine
+1172 Dominican Republic
+1173 Dominican Republic 
+1174 DOMINICAN REPUBLIC
+1175 Domodedovo
+1176 Dongo
+1177 Dordrecht
+1178 Dores
+1180 Dosso
+1181 Douala
+1182 Douala-
+1183 Douglas
+1184 Dover
+1185 Doynounay
+1187 DPRK
+1189 Drenica Valley
+1190 Duarte
+1191 Dubai
+1192 dublin
+1193 Dublin
+1194 Dubna
+1195 Dubrovnik
+1196 Dudley
+1197 Duekoue
+1198 Duffield
+1200 Dunbar
+1201 Dundee
+1202 Dungal
+1203 Dunkirk
+1204 Durango
+1205 durban
+1206 Durban
+1208 Durham
+1209 Durres
+1211 Dushanbe
+1212 Dusseldorf
+1213 Düsseldorf
+1214 Dutton
+1215 Duty Station
+1216 Dyke
+1218 East Aceh
+1219 east Afghanistan
+1220 east Africa
+1221 East Africa
+1222 East-Africa
+1223 East African
+1224 east Amsterdam
+1225 East Anatolia
+1226 East Antarctica
+1227 east Asia
+1228 East Asia
+1229 east Asian
+1230 East Asian
+1231 East-Asian
+1232 East Assab
+1233 east Atlantic
+1234 east Atlantic Ocean
+1235 east Beirut
+1237 East Berlin
+1238 East Bohemia
+1239 East Bosnia
+1240 east Brazil
+1242 east Cameroon
+1243 East Cameroon
+1244 East Caribbean
+1245 east Chiriquí
+1246 east Darfur
+1247 east Delhi
+1248 East Division
+1249 East-East
+1250 East End
+1251 Easter Island
+1252 eastern Afghanistan
+1253 eastern Africa
+1254 Eastern Africa
+1255 eastern African
+1256 Eastern African
+1257 Eastern Anatolia
+1258 Eastern Antarctic
+1259 Eastern Asia
+1260 Eastern Badia
+1261 eastern Bago
+1262 eastern Beirut
+1263 eastern Bhutan
+1264 Eastern Bloc
+1265 Eastern Block
+1266 eastern Bohemia
+1267 Eastern Bosnia
+1269 eastern Canada
+1270 Eastern Canada
+1271 Eastern Cape
+1272 eastern Caribbean
+1273 Eastern Caribbean
+1274 Eastern Central
+1275 eastern Chad
+1276 Eastern Chad
+1277 Eastern Churches
+1278 eastern Congo
+1279 Eastern Countries
+1280 eastern Darfur
+1281 Eastern District
+1282 Eastern Division
+1283 eastern DRC
+1284 Eastern DRC
+1287 Eastern Equatoria
+1288 eastern Ethiopia
+1289 eastern Europe
+1290 Eastern Europe
+1291 eastern European
+1292 Eastern European
+1293 Eastern Europeans
+1294 eastern Finland
+1295 Eastern Finland
+1296 Eastern Front
+1297 eastern Georgia
+1298 eastern German
+1299 eastern Germany
+1300 Eastern Germany
+1301 eastern Ghana
+1302 Eastern Governments
+1303 Eastern Greenland
+1304 eastern Hebron District
+1305 eastern Honduras
+1306 eastern Hungary
+1307 eastern Indonesia
+1308 eastern Iran
+1309 eastern Israel
+1310 eastern Ituri
+1311 eastern Jerusalem
+1312 Eastern Jerusalem
+1313 eastern Kenya
+1314 eastern Kosovo
+1315 eastern Länder
+1316 Eastern Länder
+1318 eastern Lebanon
+1319 Eastern Lobby
+1320 Eastern Macedonia - Thrace
+1321 eastern Martuni
+1322 Eastern Martuni
+1323 eastern Mediterranean
+1324 Eastern Mediterranean
+1325 eastern Mexico
+1326 eastern Mosquitia
+1327 eastern Mosul
+1328 eastern Myanmar
+1329 eastern Nepal
+1330 Eastern Nepal
+1331 eastern North America
+1332 Eastern Oromia
+1333 eastern Oromiya
+1334 eastern Pacific
+1335 eastern Pacific Ocean
+1336 eastern Poland
+1337 eastern Polynesia
+1338 Eastern Province
+1339 Eastern Provinces
+1340 Eastern Rakhine
+1341 Eastern Region
+1342 Eastern Republic
+1343 Eastern Rite
+1344 eastern Russia
+1345 eastern Sanaag
+1346 eastern Saudi Arabia
+1347 Eastern Sector
+1349 eastern Siberian
+1350 eastern Sierra Leone
+1351 Eastern Slavonia
+1352 eastern Slovakia
+1353 eastern Solomons
+1354 eastern Sri Lanka
+1355 Eastern States
+1357 eastern Sudan
+1358 Eastern Sudan
+1360 eastern Sudanese
+1361 eastern Syria
+1362 eastern Thailand
+1363 Eastern Timor
+1365 eastern Tubas
+1366 Eastern Uganda
+1367 Eastern United States
+1368 eastern Vieques
+1369 eastern Zaire
+1370 Eastern Zaire
+1371 east Europe
+1372 East Europe
+1373 East-Europe
+1374 east European
+1375 East European
+1376 East Foyer
+1377 east Gabon
+1378 East Germany
+1379 East Goes
+1380 East Greenland
+1381 East-Greenland
+1382 east India
+1383 East Indian
+1385 East Indies
+1387 east Jerusalem
+1388 East Jerusalem
+1389 East Kazakhstan
+1390 East Lebanon
+1391 Eastleigh
+1392 east Liberia
+1393 east London
+1394 east Mediterranean
+1396 East Midtown
+1397 East Mongolia
+1398 east Nicosia
+1399 East-North
+1400 east Pacific
+1401 east Pacific Ocean
+1402 East Pakistan
+1403 east Petén
+1404 East Port of Spain
+1405 East Region
+1406 East Regions
+1407 East River
+1408 east Russia
+1409 East Slovakia
+1410 east Somalia
+1411 East-South
+1412 east Sri Lanka
+1413 East Stanley
+1414 east Sudan
+1415 East Sudan
+1416 East Timor
+1417 East-Timor
+1418 East Timorese
+1419 East Tmor
+1420 east Turkey
+1421 East Turkistan
+1422 east United States
+1423 East-West
+1424 East-Western Europe
+1426 Eco Village
+1427 Ecuador
+1430 Edinburgh
+1432 Edmonton
+1433 Edmundo
+1434 Edvard
+1435 Egypt
+1436 EGYPT
+1437 Égypte
+1438 Ekaterinburg
+1440 El Aaiun
+1441 Elazig
+1442 Elaziğ
+1443 Elbasan
+1445 Ellice Islands
+1446 El Salvador
+1447 Emerald Island
+1448 Emirates
+1449 England
+1452 Equateur Province
+1453 Equatorial Guinea
+1454 EQUATORIAL GUINEA
+1455 Erbil
+1456 Erdenet
+1457 Eritrea
+1459 Ermera
+1460 Erskine
+1461 Erzurum
+1463 ESCAP
+1464 Esmeraldas
+1465 Espinar
+1466 Essex
+1467 Essex County
+1468 Estonia
+1469 Estonia 
+1470 ESTONIA
+1471 Ethiopia
+1472 ETHIOPIA
+1473 Éthiopie
+1475 Eurasia
+1476 Eureka
+1478 Europa
+1479 Europe
+1480 Europe 
+1481 EUROPE
+1482 European
+1483 European Mountain
+1485 Evian
+1486 Extremadura
+1487 Ezulwini
+1488 Faeroe Islands
+1489 Faizabad
+1490 Falkland
+1491 Falkland Islands
+1492 Falklands
+1493 Falklands Islands
+1494 Fallujah
+1495 Famagusta
+1497 Faridpur
+1498 Faroe Islands
+1499 Faryab
+1500 Fasher
+1502 Federal District
+1503 Federal Republic
+1504 Federal Republic of Germany
+1505 FEDERAL REPUBLIC OF GERMANY
+1506 Federated States of Micronesia
+1507 Federative Republic
+1508 Fergana Valley
+1509 Ferghana Valley
+1510 Fertit Hills
+1511 Fifth Republic
+1512 Fiji
+1513 Fiji Islands
+1514 Finland
+1515 Finland 
+1516 FINLAND
+1517 Fizuli
+1518 Fizuli District
+1519 Florence
+1520 Flores
+1521 Florida
+1522 Florida Straits
+1523 FMLN
+1524 Fordham
+1525 Forum Island
+1526 France
+1527 France 
+1528 Francfort
+1529 Franche
+1530 Frankfurt
+1531 Frascati
+1532 Fraser River
+1533 Frederiksted
+1534 freeport
+1535 Freeport
+1536 Freetown
+1538 Freiburg
+1539 French Guiana
+1540 French Guiana 
+1541 French Polynesia
+1542 French Republic
+1543 Frente
+1545 Fribourg
+1546 Fukuyama
+1547 Gabon
+1548 Gabon 
+1549 Gabonese Republic
+1550 Gaborone
+1551 Gacumbitsi
+1552 Gadaref
+1553 Gagnoa
+1554 Gainesville
+1555 Galati
+1556 Galbraith
+1557 Galcayo
+1558 Gali
+1559 Galicia
+1561 Galveston
+1562 Galway
+1563 gambia
+1564 Gambia
+1565 Gambia 
+1566 Gambia River
+1567 Ganja
+1568 Gansu
+1570 García
+1571 Garden
+1573 Gary Hill
+1574 Gatumba
+1575 Gauteng Province
+1576 Gaya
+1577 Gaza
+1578 Gaza City
+1579 Gaza Province
+1580 Gaza Strip
+1581 Gbadolite
+1582 Gbarnga
+1583 Gbarpolu
+1584 Gbarpolu County
+1585 Gdansk
+1586 Gedeh
+1587 Gedeh County
+1588 Gemena
+1591 Generalized
+1592 Geneva
+1593 GENEVA
+1594 GENEVE
+1595 Genoa
+1596 Genova
+1597 geographical Location
+1598 Georgetown
+1599 Georgia
+1600 Georgia 
+1601 GEORGIA
+1602 Georgian-
+1604 German Democratic Republic
+1605 Germany
+1606 Germany 
+1607 GERMANY
+1608 Gerona
+1609 Gerson
+1611 Ghajar
+1612 Ghana
+1613 GHANA
+1614 Ghana Village
+1615 Ghardaia
+1617 Ghazni
+1618 Ghibaish
+1619 Ghor
+1622 Gibraltar
+1623 Gikongoro
+1624 Gilbert and Ellice Islands
+1625 Gilbert Islands
+1626 Gisenyi
+1627 Gitarama
+1628 Gitega
+1629 Gitega Province
+1630 Giurgiu
+1631 Gjirokastra
+1632 Glasgow
+1634 Glen
+1635 Gleneagles
+1636 Global Ocean
+1637 Global Village
+1638 Gnassingbe
+1639 Golan
+1640 Golan Heights
+1641 Gonaïves
+1642 Gorgol
+1643 Gorodok
+1644 Goroka
+1646 Gothenburg
+1647 Gough Island
+1649 Gracanica
+1650 Grafton
+1651 Granada
+1652 Gran Canaria
+1654 Grand Cayman
+1655 Grand Turk
+1656 Granma Province
+1659 Great Britain
+1660 GREAT BRITAIN
+1661 Great Lakes
+1662 Great Lakes Republic
+1663 Great Wall
+1664 Greece
+1665 GREECE
+1667 Greek Republic
+1669 Green City
+1670 Greenham
+1671 greenland
+1672 Greenland
+1673 Green Mountains
+1675 Greenway
+1676 Greenwich
+1677 Grenada
+1680 Grenoble
+1682 Grodno
+1683 Grombalia
+1684 Groningen
+1685 Grozny
+1686 Guadalajara
+1687 Guadalcanal
+1688 Guadeloupe
+1689 Guahan
+1690 Guam
+1691 GUAM
+1692 Guanacaste
+1693 Guanajuato
+1694 Guangdong
+1695 Guangdong Province
+1696 Guangxi
+1697 Guangzhou
+1698 Guantánamo
+1699 Guantanamo Bay
+1700 Guantánamo Bay
+1701 Guarda
+1702 Guárico
+1703 Guatemala
+1704 GUATEMALA
+1705 Guatemala City
+1706 Guayaquil
+1707 Guernsey
+1708 Guerrero
+1711 Guidimagha
+1712 Guildford
+1713 Guilin
+1714 guinea
+1715 Guinea
+1716 Guinea-Bissau
+1717 Gujarat
+1718 Gulf
+1719 Gulf Coast
+1720 Gulf of Mexico
+1721 Gulu
+1724 Guthrie
+1725 GUUAM
+1726 Guyana
+1727 Gypsies
+1728 Gypsy
+1729 Haifa
+1730 Hainaut
+1731 Haiti
+1732 Haïti
+1733 Haitians
+1734 Halle
+1737 Halton
+1739 Hamburg
+1740 Hamilton
+1741 Hampshire
+1743 Haneda
+1744 Hankendi
+1745 Hanoi
+1746 Hanover
+1747 Harare
+1748 Hargeysa
+1749 Harlow
+1750 Harwood
+1751 Haryana
+1752 Hasbani River
+1753 Hastings
+1754 Havana
+1756 Haven
+1757 Hawaii
+1758 Hawar Islands
+1759 Haye
+1760 Hayes
+1762 Headquarters
+1763 Headquarters District
+1764 Hebron Hills
+1765 Heidelberg
+1766 Heilongjiang
+1767 Hellenic Republic
+1768 Helmand
+1769 Helsinki
+1770 HELSINKI
+1771 Helton
+1772 Henderson
+1773 Herat
+1774 Herne Hill
+1775 Hertogenbosch District
+1777 Herzegovina
+1780 HERZEGOVINA
+1782 Herzegovina-wide
+1784 Herzogovina
+1785 Hetherington
+1787 Highland
+1788 Highlands
+1789 Highway
+1792 Hilmand
+1793 Hilton
+1794 Himalayas
+1796 Hindmarsh Island
+1797 Hindu
+1798 Hingham
+1799 Hiran
+1800 Hiroshima
+1801 Hispaniola
+1802 Ho Chi Minh
+1803 Ho Chi Minh City
+1804 Hokkaido
+1805 Holland
+1806 HOLLAND
+1807 Hollywood
+1808 Holm
+1809 Holy
+1810 HOLY
+1811 Holy City
+1812 Honduras
+1813 Honduras 
+1814 hongkong
+1815 Hong Kong
+1816 Honiara
+1817 Honolulu
+1818 Ho Park
+1819 Houston
+1820 Huambo
+1821 Hubei
+1822 Humbolt Mountain
+1823 Hungary
+1824 Hungary 
+1825 HUNGARY
+1826 Huntington
+1827 Huntsville
+1828 Huon Islands
+1831 Hutton
+1832 Hyde
+1833 Hyderabad
+1835 Hyogo
+1837 Iasi
+1838 Ibar River
+1839 Iberian
+1840 Iberoamerican
+1841 ICC Headquarters
+1842 Iceland
+1843 ICELAND
+1844 Idlib
+1846 Ilam
+1847 Ile
+1848 Illinois
+1849 Imbabura
+1850 Imrali
+1851 Imrali Island
+1852 Incomati
+1853 Incomati River
+1854 india
+1855 India
+1856 INDIA
+1857 Indiana
+1858 Indian Ocean
+1859 Indian Ocean Islands
+1860 India Pakistan
+1861 Indochina
+1862 indonesia
+1863 Indonesia
+1864 INDONESIA
+1865 Indus River
+1866 Industrial Park
+1867 Infrasound Station
+1868 Inguri River
+1869 Ingushetia
+1871 Inhambane
+1872 Inhambane Province
+1873 In-kook Park
+1874 Innsbruck
+1876 Iquique
+1877 Irak
+1878 Iran
+1879 IRAN
+1880 Iranian Island
+1881 Iraq
+1882 IRAQ
+1883 Irbil
+1884 Ireland
+1885 IRELAND
+1886 Ireland Island
+1887 Irian
+1888 Irtysh River
+1889 ISAF Headquarters
+1890 ISESCO
+1891 Isfahan
+1892 Ishikawa
+1893 Isiro
+1894 Islamabad
+1895 Islamic Republic
+1896 Isle of Man
+1897 Isle of Pines
+1898 Isle of Wight
+1899 Israel
+1900 Istanbul
+1901 ISTANBUL
+1902 Itaguí
+1903 Italian Republic
+1904 Italy
+1905 ITALY
+1906 Ithaca
+1907 Ituri Province
+1908 Ivoire
+1909 Ivory Coast
+1910 Izmir
+1911 Jaipur
+1912 Jakarta
+1913 Jalalabad
+1914 Jamahiriya
+1915 Jamaica
+1916 JAMAICA
+1917 Jamestown
+1918 Jammu
+1919 Janakpur
+1920 Janeiro
+1921 Janja
+1922 Janjaweed
+1923 Jan Mayen
+1924 japan
+1925 Japan
+1926 JAPAN
+1928 JAXA
+1929 Jebrail District
+1930 Jeddah
+1931 Jeju Island
+1932 Jelgava
+1934 Jenin
+1935 Jericho
+1936 Jersey
+1937 Jerusalem
+1938 Jilib District
+1939 Joao River
+1940 Jodhpur
+1941 Jogjakarta
+1942 Johannesburg
+1943 Johnston
+1944 Johnstone
+1945 Johor
+1947 Joilce
+1948 Jonai
+1949 Jongli
+1950 Jonkoping
+1951 Jordan
+1952 JORDAN
+1953 Jordan River
+1955 Jordan Valley
+1957 Jowzjan
+1958 Juan
+1959 Juba
+1960 Jubail
+1961 Juba Valley
+1962 Jubayl
+1963 Judea
+1964 Judea Desert
+1965 Judicial District
+1967 Juradó
+1968 Kabalo
+1971 Kabingu
+1972 Kabul
+1973 Kadavu
+1974 Kadugli
+1975 Kaduna
+1976 Kagera River
+1978 Kailahun District
+1979 Kailali District
+1980 Kainuu Province
+1981 Kalahari Desert
+1982 Kalikot District
+1983 Kaliningrad
+1984 Kalisz
+1985 Kalkilya
+1986 Kalmyk Republic
+1987 Kamakwie
+1988 Kambia District
+1989 Kamina
+1990 Kampala
+1991 Kampot
+1992 Kananga
+1993 Kanazawa City
+1994 Kandahar
+1995 Kandahar Province
+1996 Kansas
+1997 Kanto
+1998 Kanyabayonga
+1999 Kapalata
+2000 Kapan
+2001 Karabagh Republic
+2002 Karabakh
+2003 Karabakh Republic
+2004 Karachi
+2006 Karaj
+2007 Karategin Valley
+2008 Karbala
+2009 Karelian Republic
+2010 Karnataka
+2011 Kars
+2012 Karun River
+2013 Karuzi
+2014 Kasai
+2015 Kasai Province
+2017 Kashmir
+2018 Kashmir Valley
+2020 Kassala
+2021 Katanga
+2022 Katanga Province
+2023 Kathmandu
+2024 Katowice
+2026 Katzrin
+2027 Kavala
+2028 Kavre District
+2030 Kawasaki City
+2031 Kawkaba
+2032 Kayanza
+2033 Kayin
+2034 Kazakhstan
+2035 Kazakhstan 
+2036 KAZAKHSTAN
+2037 Kazakstan
+2038 Keele
+2039 Keith
+2040 Kelbajar District
+2041 Kelly
+2042 Kemondo Bay
+2043 Kenema
+2044 Kenema District
+2046 Kentucky
+2047 Kenya
+2048 KENYA
+2049 Kerala
+2050 Kerguelen Islands
+2051 Kerman
+2052 Kerry
+2053 KFOR
+2054 Khabarovsk
+2055 Khabur Valley
+2056 Khadimiya
+2057 Khagrachari
+2059 Khalde
+2061 Khankendi
+2062 Khanlik
+2063 Khartoum
+2064 Khatmandu
+2065 Khobar
+2066 Khojaly
+2067 Khoramshahr
+2068 Khorasan
+2069 Khujand
+2070 Khulna
+2072 Khuzestan
+2075 Kibungo
+2076 Kibuye
+2077 Kiel
+2078 Kielder
+2079 Kiev
+2080 Kigali
+2081 Kigoma
+2082 Kilimanjaro
+2084 Kilwa
+2085 Kimberley
+2086 Kindu
+2087 Kingdom
+2088 Kingston
+2089 Kingstown
+2090 Kinshasa
+2091 Kiribati
+2092 Kirk
+2093 Kirkuk
+2094 Kirn
+2095 Kiruna
+2096 Kirundo
+2097 Kisangani
+2098 Kish Island
+2100 Kismaayo
+2101 Kismayo
+2102 Kisumu
+2103 Kitakyushu
+2104 Kitts
+2105 Kivu
+2106 Kivus
+2107 Klaipeda
+2109 Klecka
+2110 Klina
+2112 Knin
+2113 Kobe
+2114 Kobenhavn
+2115 Köbenhavn
+2116 Kodai Hills
+2117 Kodori Valley
+2118 Koinadugu District
+2119 Kokang
+2120 Kolaia
+2121 Kolda
+2123 Komati River
+2124 Komi Republic
+2125 Komotini
+2126 Kompong
+2127 Konar
+2128 Konculj
+2129 Kondoz
+2130 Konduz
+2132 Kono District
+2133 Korça
+2134 Korea
+2135 KOREA
+2136 Korhogo
+2137 Kormakitis
+2138 Kosovar
+2139 Kosovars
+2140 kosovo
+2141 Kosovo
+2142 Kosovo Province
+2143 Kotorska
+2144 Kotorska Bay
+2145 Koulikoro
+2146 Koweit
+2147 Koweït
+2148 Kozluk
+2149 Krakow
+2151 Krishna
+2152 Kristiansand
+2153 Kru County
+2154 Kuala Lumpur
+2155 Kubatly
+2156 Kubatly District
+2157 Kukes
+2158 Kulbus
+2159 Kunduz
+2160 Kunene River
+2161 Kurdistan
+2162 Kushiro
+2163 Kutaisi
+2164 kuwait
+2165 Kuwait
+2166 KUWAIT
+2167 Kuwait Bay
+2168 Kuwait City
+2169 Kwanza River
+2170 KwaZulu-Natal Province
+2171 Kyiv City
+2172 kyoto
+2173 Kyoto
+2174 Kyrenia
+2175 Kyrgystan
+2176 Kyrgyz Republic
+2177 Kyrgyzstan
+2178 Kyrgyzstan Republic
+2179 Kyzylorda
+2180 Kzylorda
+2181 Laayoune
+2182 Labem City
+2183 Labrador
+2184 Labuan
+2185 LAC
+2186 La Ceiba
+2187 Lachin
+2188 Lachin District
+2189 Ladbroke
+2190 Ladbroke Grove
+2191 Laem
+2192 Laghman
+2193 Laghman Province
+2194 Lagos
+2195 Lahore
+2196 Lake
+2197 lake Alaotra
+2198 Lake Chad
+2199 Lake Chad Basin
+2200 Lake Lanoux
+2201 Lake Malawi
+2202 Lake Managua
+2203 Lake Tanganyika
+2204 Lake Tiberias
+2205 Lake Victoria
+2206 Lake Victoria Basin
+2207 Lake Volta
+2208 Lambeth
+2209 Lampedusa
+2210 Lampung
+2211 Lancaster
+2212 Land
+2213 Länder
+2214 Landlocked
+2215 Land-locked
+2216 Langkawi
+2217 Langton
+2218 Lansdown
+2219 Lansing
+2220 Lantau Island
+2221 La Paz
+2222 Larnaca
+2223 Las Palmas
+2224 Lasva Valley
+2225 Lašva Valley
+2226 Las Vegas
+2227 Latina
+2228 Latin America
+2229 Latvia
+2230 Latvia 
+2232 Lausanne
+2233 Lazio
+2235 Lebanon
+2236 LEBANON
+2237 Ledra
+2238 Leeward Islands
+2239 Leibnitz 
+2240 Leinster
+2241 Leipzig
+2242 Lena River
+2243 Leningrad
+2244 Lenoir
+2245 Leominster
+2247 Leone
+2248 Leposavic
+2249 Leslie
+2250 Lesotho
+2251 Lethbridge
+2252 Lettonie
+2253 Levu Island
+2254 Lewes
+2255 Lexington
+2256 Liban
+2257 Liberia
+2258 Libreville
+2259 Libya
+2260 Libyan Arab Jamahiriya
+2261 Liechtenstein
+2262 LIECHTENSTEIN
+2263 Liepaja
+2264 Liguria
+2265 Lille
+2266 Limburg
+2268 Limpopo River
+2269 Lincoln
+2271 Linlithgow
+2272 Linz
+2273 Lisboa
+2274 Lisbon
+2276 Litani River
+2277 lithuania
+2278 Lithuania
+2279 Lithuania 
+2280 Lithuanian Republic
+2281 Littoral Province
+2282 Liuzhou City
+2283 Livingstone
+2284 Livorno
+2285 Ljubljana
+2286 Lockerbie
+2287 Lofa County
+2288 Lofa River
+2289 Lofoten Islands
+2290 Logan
+2292 Logouale
+2294 Lombardy
+2295 Lome
+2296 Lomé
+2297 London
+2298 Londonderry
+2299 Londres
+2300 Long Island
+2301 Los Angeles
+2302 Louisiana
+2303 Lourdes
+2304 Luanda
+2305 Lubero
+2306 Lubombo Mountains
+2307 Lubumbashi
+2308 Lueneburg
+2309 Lugano
+2310 Luganville
+2311 Lukavac
+2312 Lukić
+2313 Lumbini
+2314 Lumpur
+2315 Lunsar
+2316 Lusaka
+2317 Lusitania
+2318 Luxembourg
+2319 Luxembourg 
+2320 LUXEMBOURG
+2321 Luxemburg
+2322 Luzon
+2323 Luzon Island
+2324 Lyndon
+2325 Lyon
+2326 LYON
+2327 Lys Valley
+2328 Maastricht
+2329 Mabanda
+2330 Macao
+2331 Macau
+2332 Macedonia
+2333 MACEDONIA
+2334 Macedonian
+2335 Mackenzie Valley
+2336 Madagascar
+2337 Madagascar 
+2338 Madaripur District
+2339 Madrid
+2340 MADRID
+2341 Magdalena River
+2342 Magdeburg
+2343 Maghreb
+2344 Mahagi
+2345 Maharashtra
+2346 Mahé
+2347 Mahila
+2352 Maitri Station
+2353 Makamba
+2354 Makanza
+2355 Malabo
+2356 Malacca
+2358 Malaga
+2359 Malaita
+2360 Malakal
+2361 MALAMPA Province
+2362 Malaria
+2363 Malatya
+2364 Malawi
+2365 Malaysia
+2366 Malaysia 
+2367 MALAYSIA
+2368 Maldives
+2369 Maldives 
+2370 Maldonado
+2373 Mali
+2374 Mali 
+2375 MALI
+2376 Malindi
+2377 Mallorca Island
+2378 Malmö
+2379 Malpelo Island
+2380 Malta
+2381 MALTA
+2382 Maluku
+2383 Malvinas Islands
+2384 Managua
+2385 MANAGUA
+2386 Manama
+2387 Manaus
+2388 Manchester
+2389 Mandalay
+2390 Mandara Mountains
+2391 Manger Square
+2392 Manhattan
+2393 Manhattan Island
+2394 Maniema
+2395 Manila
+2396 MANILA
+2397 Manipur
+2398 Manisa
+2399 Manitoba
+2400 Mannar Island
+2401 Manor
+2402 Mano River
+2403 Manouba
+2404 Mansehra
+2405 Manzini
+2406 Maputo
+2407 Maputo Bay
+2408 Maputo City
+2409 Maputo Province
+2410 Maracaibo
+2411 Marajo Island
+2412 Marambio Station
+2413 Marawi City
+2414 Marcoussis
+2415 Mardakert
+2416 Margaliot
+2417 Margarita
+2418 Margarita Island
+2420 Margibi
+2421 Margibi County
+2423 Marion Island
+2424 Maritime Canal
+2425 Marka
+2426 Maroc
+2427 Maron Island
+2428 Marrakech
+2429 Marrakesh
+2430 Marsden
+2431 Marseille
+2432 Marshall
+2433 Marshall 
+2434 Marshall Islands
+2435 Marston
+2436 Martin
+2437 Martinique
+2439 Maryland
+2440 Maryland County
+2441 Mashhad
+2442 Massachusetts
+2444 Matadi
+2445 Matagalpa
+2446 Matamoros
+2447 Mauritania
+2448 Mauritius
+2449 Mayaro
+2450 Mayo
+2451 Mayotte
+2452 Maysan
+2453 Mazar
+2454 Mbandaka
+2456 McDonald Islands
+2457 Mechelen
+2458 Mediterranean
+2459 Mediterranean Basin
+2460 Mediterranean sea
+2461 Mediterranean Sea
+2462 Meknès
+2463 Mekong
+2464 Mekong Basin
+2465 Mekong Delta
+2466 Mekong River
+2467 Melbourne
+2468 Melilla
+2469 Mendoza
+2470 Mereb River
+2471 Meretz City
+2473 Mesoamerica
+2474 Messina
+2475 Metohija
+2476 Metohija
+2477 Metohija
+2478 Metula
+2480 Mexican Republic
+2481 Mexico
+2482 MEXICO
+2483 Mexico City
+2484 México City
+2485 Mexique
+2486 Miami
+2487 Michigan
+2488 Michoacán
+2489 Micronesia
+2490 Middle
+2491 Middle East
+2492 Midway Islands
+2493 Mila
+2494 Milan
+2495 MILAN
+2496 Mile Beach
+2497 Ming City
+2498 Minnesota
+2500 Mississippi
+2502 Mogadishu
+2503 Mogadishu Stadium
+2504 Mogila
+2505 Mogilev
+2506 Moka
+2507 Moken sea
+2509 Moldova
+2510 MOLDOVA
+2511 Moldovan
+2512 Molucca Islands
+2514 Moluccas Province
+2515 Mombasa
+2516 monaco
+2517 Monaco
+2518 Mongolia
+2519 MONGOLIA
+2520 Mongomo
+2521 Monrovia
+2522 Montana
+2523 Montego Bay
+2524 Montenegro
+2525 Montengero
+2526 Montengro
+2527 Monterrey
+2528 Montevideo
+2529 Montgomery
+2530 Montpellier
+2531 Montreal
+2532 MONTREAL
+2533 Montserrado County
+2534 Montserrat
+2536 Mornei
+2537 Morocco
+2538 MOROCCO
+2539 Moroni
+2540 Moscow
+2541 MOSCOW
+2542 Moskva
+2543 Mostar
+2544 Mosul
+2545 Motagua River
+2546 Moulton
+2547 Mount
+2548 Mount Cameroon
+2549 Mount Hermon
+2550 Mount Kenya
+2551 Mount Lebanon
+2552 Moxico
+2553 Moxico Province
+2554 Moyamba
+2555 Mozambique
+2556 Mozambique Island
+2557 Mumbai
+2558 Munich
+2559 Muntinlupa City
+2560 Muramvya
+2561 Murcia
+2562 MURCIA
+2563 Murmansk
+2565 Musliu
+2566 Muyinga
+2567 Mwanza
+2568 Mwaro
+2569 Mwaro Province
+2570 Myanmar
+2571 MYANMAR
+2573 Mymensingh
+2575 Nabatieh
+2576 Nablus
+2577 Naga
+2578 Naga City
+2579 Nagaland
+2580 Nagano
+2581 Nagasaki
+2582 NagasakiYet
+2583 Nagorno
+2584 Nagorno-
+2585 Nagorny
+2586 Nairobi
+2587 NAIROBI
+2589 Naivasha
+2590 Najaf
+2591 Nakhichevan
+2592 Nama
+2593 Namibia
+2594 NAMIBIA
+2595 Namibie
+2597 Nampula
+2598 Namur
+2599 Nandi Hills
+2600 Nangarhar
+2601 Nangarhar Province
+2602 Nanhai
+2603 Nanjing
+2604 Nantes
+2605 Napan
+2606 Naples
+2607 Napo River
+2608 Nara
+2609 Narayanganj
+2610 Narew Valley
+2611 Narmada River
+2612 Narmada Valley
+2613 Narula
+2614 Nasiriyah
+2615 Nasr City
+2616 Natanya
+2617 National Stadium
+2619 Nauru
+2620 Naval Base
+2621 Naval Station
+2622 Navarra
+2623 Nazareth
+2624 Nebraska
+2625 Nejmeh Square
+2626 Nelson Island
+2627 Nepal
+2628 NEPAL
+2629 Nepalgunj
+2630 Neretva River
+2631 Netanya
+2632 Netherlands
+2633 Netherlands 
+2634 NETHERLANDS
+2635 Netherlands Antilles
+2636 Netherlands Antilles Islands
+2637 Nettleton
+2638 Nevada
+2639 New Bridge
+2640 New Caledonia
+2641 Newcastle
+2642 Newcastle upon Tyne
+2643 New Delhi
+2644 New England
+2645 Newfoundland
+2646 New Guinea
+2647 New Hampshire
+2648 New Haven
+2649 New Jersey
+2650 New Mexico
+2651 Newnham
+2652 New Orleans
+2653 Newport
+2654 New Republic
+2655 New Town
+2656 New Valley
+2657 New York
+2658 New York City
+2659 New York County
+2661 New York Headquarters
+2662 New Zealand
+2663 NEW ZEALAND
+2664 Ngara River
+2667 Nias
+2668 Nias Island
+2669 Niassa Province
+2670 Nicaragua
+2671 NICARAGUA
+2672 Nickerie
+2673 Nicobar Islands
+2674 Nicosia
+2675 Niger
+2676 NIGER
+2677 Niger Basin
+2678 Niger Delta
+2679 nigeria
+2680 Nigeria
+2681 NIGERIA
+2682 Niger River
+2683 Niigata
+2684 Nijmegen
+2685 Nile
+2686 Nile Basin
+2687 Nile Delta
+2688 Nile River
+2689 Nile Valley
+2690 Nimba
+2691 Nimba County
+2692 Nizhniy
+2693 Norfolk Island
+2695 Normandy
+2696 north Africa
+2697 North Africa
+2698 North African
+2699 north Algeria
+2700 North America
+2701 North American
+2702 North Americans
+2703 North Asia
+2704 North Asian
+2705 North Atlantic
+2706 North Atlantic ocean
+2707 North Atlantic Ocean
+2708 north Beirut
+2709 North Borneo
+2710 North Caicos
+2711 North Carolina
+2712 north Caucasus
+2713 North Caucasus
+2714 North Central
+2715 North China
+2716 north Corridor
+2717 North Cyprus
+2718 North Dakota
+2719 North Darfur
+2721 North-east
+2722 North East
+2723 North-East
+2724 NORTH-EAST
+2725 northeast Asia
+2726 Northeast Asia
+2727 North East Asia
+2728 North-East Asia
+2729 Northeast Atlantic
+2730 Northeast Brazil
+2731 north-eastern Afghanistan
+2732 north-eastern Albania
+2733 north-eastern Brazil
+2734 north-eastern Central African Republic
+2735 North-Eastern District
+2736 northeastern Ethiopia
+2737 north-eastern Hungary
+2738 north-eastern India
+2739 north-eastern Indian
+2740 north-eastern Iran
+2741 north-eastern Ituri
+2742 north-eastern Jerusalem
+2743 north-eastern Katanga
+2744 north-eastern Kyrgyzstan
+2745 north-eastern Namibia
+2746 North Eastern Province
+2747 northeastern Rwanda
+2748 north-eastern Saudi Arabia
+2749 northeastern Saudi Arabia
+2750 north-eastern Somalia
+2751 north-eastern Sri Lanka
+2752 north-eastern States
+2753 Northeastern States
+2754 north-eastern United States
+2755 Northeast Ethiopia
+2756 North East India
+2757 North-East India
+2758 Northeast Pacific
+2759 North-East Province
+2760 Northeast Region
+2761 northeast Thailand
+2762 NORTHERN
+2764 Northern Adriatic
+2765 Northern Aegean
+2766 northern Afghanistan
+2767 northern Africa
+2768 Northern Africa
+2769 Northern African
+2770 northern Algerian
+2771 Northern America
+2772 northern Amman
+2773 northern Anatolian
+2774 northern Angola
+2775 northern Appalachian Basin
+2776 Northern Area
+2777 Northern Areas
+2778 northern Asia
+2779 northern Australia
+2780 Northern Australia
+2781 northern Bahr
+2782 Northern Bahr
+2783 northern Bekaa
+2784 northern Bhutan
+2785 Northern Bloc
+2786 northern Bohemia
+2787 northern Bosnia
+2788 Northern Cameroon
+2789 Northern Cameroons
+2790 northern Canada
+2791 Northern Caribbean
+2792 northern Caucasus
+2793 Northern Caucasus
+2794 Northern Cement
+2795 northern Chad
+2796 northern Chechnya
+2797 northern Chile
+2798 Northern Cities
+2799 Northern Concession
+2800 Northern Corridor
+2801 northern Croatia
+2802 northern Cyprus
+2803 Northern Cyprus
+2804 northern Darfur
+2805 Northern Darfur
+2807 northern Dioula
+2808 northern Équateur
+2809 northern Ethiopia
+2810 northern Europe
+2811 Northern Europe
+2812 northern Finland
+2813 Northern Finland
+2814 Northern Fulmars
+2815 northern Gaza
+2816 Northern Gaza
+2817 northern Gaza Strip
+2818 northern Gedo
+2819 northern Ghana
+2820 Northern Ghana
+2821 northern Golan Heights
+2822 northern Governorates
+2823 northern Greece
+2824 Northern Greece
+2825 northern Guinea-Bissau
+2826 northern Gulf
+2827 northern Hawaiian Islands
+2828 northern Hazarajat
+2829 Northern Health
+2830 Northern Hemisphere
+2832 northern India
+2833 northern Indonesia
+2834 northern Iraq
+2835 Northern Iraq
+2836 Northern Ireland
+2837 Northern Ireland
+2838 Northern Ireland
+2839 Northern Island
+2840 northern Israel
+2841 northern Italy
+2842 northern Jaffna
+2843 northern Jerusalem
+2844 northern Jordan
+2845 northern Jordan Valley
+2846 northern Kantanga
+2847 northern Katanga
+2848 northern Kenyan
+2849 northern Kosovo
+2850 Northern Kurdistan
+2851 Northern Kuwait Bay
+2852 northern Kyrgyzstan
+2853 northern Labrador
+2854 northern Lapland
+2855 northern Lebanon
+2856 northern Leeward Islands
+2857 northern Liberia
+2858 northern Luzon
+2859 northern Mali
+2860 northern Manhattan
+2861 northern Manitoba
+2862 Northern Mariana Islands
+2863 northern Mediterranean
+2864 Northern Mediterranean
+2865 Northern Mediterranean
+2866 northern Mitrovica
+2867 northern Mogadishu
+2868 northern Moravia
+2869 northern Morocco
+2870 Northern Mozambique
+2871 Northern Mujib
+2872 northern Namibia
+2873 northern Nicaragua
+2874 northern Nigeria
+2875 northern Nordic
+2876 northern Norway
+2877 Northern Ontario
+2878 Northern Pac
+2879 northern Pakistan
+2881 northern Petén
+2882 Northern Province
+2883 northern Provinces
+2884 Northern Provinces
+2885 northern Rakhine
+2886 northern Red Sea
+2887 Northern Region
+2889 northern Rocky Mountains
+2890 Northern Route
+2891 Northern Russia
+2892 northern Samaria
+2893 Northern Saskatchewan
+2894 northern Senegal
+2895 northern Serbian
+2896 northern Siberia
+2897 northern Somali
+2898 northern Somalia
+2899 northern South Africa
+2900 Northern States
+2901 northern Sudan
+2902 northern Sumatra
+2903 Northern Sumatra
+2904 northern Sweden
+2905 northern Tanzania
+2906 northern Tehran
+2907 Northern Territory
+2908 northern Thailand
+2909 northern Turkey
+2910 northern Uganda
+2911 Northern Uganda
+2912 Northern Valley
+2913 northern Venezuela
+2914 Northern View
+2915 northern West Bank
+2916 northern Zambia
+2917 North Europe
+2918 North Field
+2919 North Garden
+2920 North Holland
+2921 North Hollywood
+2922 North Iceland
+2923 North Ireland
+2924 North Jazira
+2925 North Kazakhstan
+2926 north Khartoum
+2927 North Kivu
+2928 North-Kivu
+2929 North Kivu Province
+2930 North Korea
+2931 North Koreans
+2932 North Lawn
+2933 north Lebanon
+2934 North Lounge
+2935 North Lungi
+2936 North Maluku
+2937 North Mitrovica
+2938 north North
+2939 North-North
+2940 North Ossetia
+2941 north Pacific
+2942 North Pacific
+2943 North Pacific Ocean
+2944 North Pole
+2945 North Province
+2946 North Sámi
+2947 North Sea
+2948 North Seas
+2949 North Shewa
+2950 North Sinai
+2951 North Slave
+2952 North Sound
+2953 North South
+2954 North-South
+2955 North- South
+2956 North Sulawesi
+2957 North Sumatra
+2958 North Tallinn
+2959 North Transgas
+2960 North Vietnamese
+2961 North-west
+2962 North West
+2963 North-West
+2964 Northwest Atlantic
+2965 North Western
+2966 north-western Africa
+2967 northwestern Armenia
+2968 north-western Azerbaijan
+2969 north-western China
+2970 north-western Croatia
+2971 North-Western Hawaiian
+2972 north-western Italy
+2974 north-western Mediterranean
+2975 north-western Myanmar
+2976 North-Western Provinces
+2977 north-western Russia
+2978 north-western Russian
+2979 north-western Rwanda
+2980 north-western Uganda
+2981 North-West Europe
+2982 northwest Ohio
+2983 Northwest Pacific
+2984 North-West Province
+2985 northwest Russian
+2986 Northwest Territories
+2987 Norway
+2988 Norwegian Sea
+2989 Norwich
+2990 Norwood
+2991 Nottebohm
+2992 Nouadhibou
+2993 Nouakchott
+2994 Noumea
+2995 NOUMEA
+2996 Nova Scotia
+2997 Novi Sad
+2998 Novosibirsk
+3001 Nuba Mountains
+3002 Nuevo Laredo
+3003 Nuremberg
+3004 Nuristan
+3005 Nürnberg
+3006 Oaxaca
+3007 Ocaña
+3008 Occra Hills
+3009 Oceania
+3010 Okinawa
+3011 Oklahoma
+3012 Oklahoma City
+3013 Okra Hills
+3014 Old City
+3015 Olongapo City
+3016 Olympia
+3017 Olympic Stadium
+3018 Olympic Village
+3019 Oman
+3020 OMAN
+3021 Omar Square
+3022 Ometepe Island
+3023 Ontario
+3024 Operational Headquarters
+3025 Orange River
+3026 Orange Valley
+3027 Orientale Province
+3028 Orinoco River
+3029 Orissa
+3030 Orlando
+3031 Orton
+3032 Osaka
+3033 OSAKA
+3034 Osborne
+3035 Oslo
+3036 Osojane Valley
+3037 Ostrava
+3038 Ottawa
+3039 Ouagadougou
+3040 Oubangui
+3041 Oubangui River
+3042 Ouest
+3043 Ouest Province
+3045 Oxford
+3046 Oxley
+3047 Pacific Island
+3048 Pacific Islands
+3049 Pacific Ocean
+3050 Pago Pago
+3051 Paikarkuchi
+3052 pakistan
+3053 Pakistan
+3054 Palace Island
+3055 Palani Hills
+3056 Palatinate District
+3057 Palau
+3058 Palawan
+3059 Palembang
+3060 Palermo
+3061 palestine
+3062 Palestine
+3063 PALESTINE
+3064 Palestinian
+3065 Palgrave
+3066 Palma
+3069 Palo Alto
+3070 Pamelap
+3071 Panama
+3072 Panama Canal
+3073 Panama City
+3074 Panjshir
+3075 Panjshir Valley
+3076 Panmunjom
+3077 Paphos
+3078 Papua
+3079 Papua 
+3080 Papua New Guinea
+3081 Paraguay
+3082 Paraguay 
+3083 PARAGUAY
+3084 Paramaribo
+3085 Paraná
+3087 paris
+3088 Paris
+3089 PARIS
+3090 Parnell Square
+3092 Parvan
+3093 Parwan Province
+3094 Pasjane
+3095 Patna
+3097 Peace Village
+3098 Pearl River
+3099 Pedro Castle
+3100 Peleliu
+3101 Pelindaba
+3102 Penang
+3103 Penguin Islands
+3104 Pennsylvania
+3105 Penrose
+3106 Pereira
+3107 PEREIRA
+3108 Peru
+3109 PERU
+3110 Perú
+3111 Peshkopia
+3113 Petchabun Province
+3114 Peter Hill
+3115 Petersburg
+3116 Petropavlovsk
+3117 Philadelphia
+3118 philippines
+3119 Philippines
+3120 Philippines 
+3121 Pitcairn Island
+3123 Pittsburgh
+3124 Plovdiv
+3126 Plymouth
+3127 Podgorica
+3128 Pohnpei
+3129 Poland
+3130 Poland 
+3131 POLAND
+3133 Pongola River
+3134 Pontoise
+3135 Port au Prince
+3136 Port Elizabeth
+3137 Port Ellen
+3138 Port Hedland
+3139 Portland
+3140 Port Louis
+3141 Port Moresby
+3142 Porto
+3143 Porto Alegre
+3144 Port of Spain
+3145 Port-of-Spain
+3146 Porton
+3147 Portoviejo
+3148 Portugal
+3149 Portugal 
+3150 PORTUGAL
+3151 Portugal Republic
+3152 Portuguese Republic
+3154 Port Vila
+3155 Potsdam
+3157 Pradesh
+3158 Pradesh Province
+3159 Prague
+3160 Praia
+3161 PRAIA
+3162 Presevo Valley
+3163 Pretoria
+3164 PRETORIA
+3165 Pristina
+3166 Puerto Ayacucho
+3167 Puerto Barrios
+3168 Puerto Ordaz
+3169 Puerto Ricans
+3170 Puerto Rico
+3171 PUERTO RICO
+3172 Puglia
+3174 Puna
+3175 Punjab
+3176 Punjab Province
+3177 Puntarenas
+3178 Pyongyang
+3179 Pyrenees
+3181 Qadisiyah
+3182 Qalandiya
+3183 Qalqilya
+3184 Qana
+3185 Qandahar
+3186 Qandahar Province
+3187 qatar
+3188 Qatar
+3189 Qatar 
+3190 Qinghai
+3191 Qinghai Province
+3193 Quebec
+3194 QUEBEC
+3195 Québec
+3196 Quebec City
+3197 Queens
+3198 Queensland
+3199 Querétaro
+3200 Quetta
+3201 Quezon City
+3202 Quito
+3203 Quneitra
+3204 Qurnah
+3206 Rabat
+3207 Rabbani
+3208 Rabi Island
+3209 Rackham
+3210 Rafah
+3211 Ragali Delta
+3212 Raina Boulevard
+3213 Rajar
+3214 Rajasthan
+3216 Ramallah
+3218 Ramón
+3219 Rangamati
+3220 Rangpur
+3221 Rarotonga
+3222 Rashayya
+3223 Rasht Valley
+3224 Rawanduz
+3227 Red River
+3228 Red Sea
+3231 Regina
+3232 Regional Ocean
+3233 Republic of Ireland
+3234 Republic of Korea
+3235 Republic of Korea 
+3236 Republic of Korea Arts. 
+3237 Republic of Macedonia 
+3238 Republic of Moldova 
+3239 Republic of Sri Lanka 
+3240 Republicof the Congo 
+3241 Republic of Tunisia
+3242 Republic of Turkey 
+3243 Republika
+3244 Rhine River
+3245 Rhode Island
+3246 Riau
+3247 Ridderkerk
+3248 Rift Valley
+3249 Riga
+3250 Rio
+3251 RIO
+3252 Rio de Janeiro
+3254 Rivas
+3255 River
+3256 Rivera
+3257 Rivercess County
+3258 Riyad
+3259 Riyadh
+3260 Riyadh City
+3261 Road
+3262 Road Bay
+3263 Road Town
+3264 Roberts
+3265 Rock
+3266 Rocks
+3267 Rocky Mountains
+3268 Rodley
+3269 Rodrigues
+3270 Rodrigues Island
+3271 Roma
+3272 ROMA
+3273 romania
+3274 Romania
+3275 Rome
+3276 Roosevelt
+3277 Rose
+3278 Roskilde
+3279 Rothera Station
+3280 Rotterdam
+3281 Rotuma
+3282 Rotuma Island
+3284 Rouen
+3285 Rowland
+3286 ROYAUME
+3288 Ruby Valley
+3290 Rupandehi District
+3291 Rural Province
+3292 Russia
+3293 RUSSIA
+3294 Russian Channel
+3295 Russian Federation 
+3296 Russian Mission
+3297 rwanda
+3298 Rwanda
+3299 RWANDA
+3300 Rwandese
+3301 Rwandese Republic
+3303 Sabie
+3304 Sadr City
+3305 Saharan
+3306 Sahel
+3307 Sahelian
+3308 Sahiwal
+3309 Sainte-Lucie
+3310 Saint Michael
+3311 Saint Petersburg
+3312 Saint Vincent
+3313 Saipan
+3314 Sakha Republic
+3315 Salalah
+3316 Salamanca
+3317 Salento
+3318 Sal Island
+3319 Salvador
+3320 SALVADOR
+3321 Salvadorans
+3322 Salzburg
+3323 Samangan
+3324 Samaria
+3325 Samarkand
+3327 Samoa
+3328 Samoa Islands
+3330 San Andres
+3331 San Antonio
+3332 San Bernardino
+3333 San Diego
+3334 San Fernando
+3335 San Francisco
+3336 Sangha Park
+3338 San Jose
+3339 San Juan
+3340 San Juan River
+3341 San Luis Potosi
+3342 Sanma Province
+3343 San Marino
+3344 San Marino 
+3345 SAN MARINO
+3346 San Pedro Sula
+3347 San Salvador
+3348 Santa Cruz
+3349 Santa Fe
+3350 Santo Domingo
+3351 Sao Paulo
+3352 Sao Tome 
+3353 Saraburi Province
+3354 Sarafand
+3355 Sarajevo
+3356 Sardinia
+3357 Saskatchewan
+3358 Satellite Station
+3359 Saudi Arabia
+3360 Saudi Arabia 
+3361 SAUDI ARABIA
+3362 savannah
+3363 Sava River
+3364 Scandinavia
+3365 Scarborough
+3366 Scarcies River
+3367 Schaffhausen
+3368 Scotland
+3369 Scugog Island
+3370 Sea Island
+3372 Seattle
+3374 Second Republic
+3375 Sedudu Island
+3376 Seine River
+3377 Seismological Station
+3378 Sellafield
+3379 Semanza
+3380 Semipalatinsk
+3381 Senegal
+3382 Senegal 
+3383 SENEGAL
+3384 Senegal River
+3386 Seoul
+3387 SEOUL
+3388 Separation Wall
+3389 Serb
+3390 Serbia
+3391 Serbian
+3392 Serbian Province
+3393 Seri
+3394 Sessay
+3396 Sevastopol
+3397 Sevilla
+3398 Seville
+3400 Seychelles
+3401 Shabelle
+3402 Shabelle River
+3403 Shamali Valley
+3404 Shanghai
+3405 Shannon
+3406 Sharja
+3407 Sharjah
+3408 Sharm
+3409 Sharm Sheikh
+3413 Shelomi
+3414 Shelter
+3415 Shelton
+3416 Shenzhen
+3417 Shiga
+3418 Shijiazhuang
+3419 Shire River
+3420 Shirley
+3421 Shkodra
+3422 Shlomi
+3423 Shonan Village
+3425 Shuba
+3426 Shumen
+3428 Siak River
+3429 Siberia
+3430 Sicilia
+3431 Sierra
+3432 Sierra Leone
+3433 SIERRA LEONE
+3434 Silicon Valley
+3435 Silwan
+3436 Sinaloa
+3437 Sindh
+3438 Singapore
+3439 SINGAPORE
+3440 Singapore River
+3441 Singapour
+3442 Sinoe County
+3443 Siracusa
+3444 Sirajganj
+3445 Sirba
+3446 Sirte
+3448 Skeldon
+3449 Skopje
+3451 slovakia
+3452 Slovakia
+3453 Slovakia 
+3454 SLOVAKIA
+3455 Slovak Republic
+3456 Slovenia
+3457 SLOVENIA
+3459 Small Island
+3460 Small Islands
+3461 Sochi
+3462 Socialist Republic
+3463 Söderköping
+3464 Solomon 
+3465 Solomon Island
+3466 Solomon Islands
+3467 Somalia
+3468 Somaliland
+3469 Somali Republic
+3470 Sombrero Island
+3471 Songmi
+3472 Soriano
+3474 Soufriere
+3475 Soufriere Hills
+3477 South Africa
+3478 South-Africa
+3479 SOUTH AFRICA
+3480 South África
+3481 South Africaa
+3482 South-African
+3483 South Africans
+3484 Southall
+3485 Southam
+3486 South America
+3487 SOUTH AMERICA
+3488 South American
+3489 South Americans
+3490 Southampton
+3492 south Asia
+3493 South Asia
+3494 South-Asia
+3495 South Asian
+3496 South-Asian
+3497 South Atlantic
+3498 South Atlantic Islands
+3499 South Atlantic Ocean
+3500 South Australia
+3501 South Australian
+3502 South Bend
+3503 South Caicos
+3504 South Camp
+3505 South Carolina
+3506 South Caucasus
+3507 South Caucusus
+3509 South-Central
+3510 South China Sea
+3511 South Cooperation
+3512 south Cyprus
+3513 South Cyprus
+3514 South Dakota
+3515 South Darfur
+3516 South Division
+3517 South-east
+3518 South East
+3519 South-East
+3520 southeast Asia
+3521 Southeast Asia
+3522 South East Asia
+3523 South-East Asia
+3524 Southeast Asian
+3525 Southeast Atlantic Ocean
+3526 Southeast China
+3527 south-eastern Afghanistan
+3528 south-eastern Africa
+3529 South-Eastern Africa
+3530 south-eastern Anatolia
+3531 south-eastern Asia
+3532 South-Eastern Asia
+3533 south-eastern Bangladesh
+3534 south-eastern Burundi
+3535 southeastern Canada
+3536 south-eastern Europe
+3537 southeastern Europe
+3538 Southeastern Europe
+3539 South Eastern Europe
+3540 South- Eastern Europe
+3541 South-Eastern Europe
+3542 south-eastern European
+3543 South-Eastern European
+3544 south-eastern France
+3545 south-eastern Guinea
+3546 south-eastern Gulf
+3547 south-eastern Iraq
+3548 south-eastern Kyrgyzstan
+3549 south-eastern Mexican
+3550 south-eastern Nepal
+3551 southeastern Norway
+3552 south-eastern Pacific Ocean
+3553 South-Eastern Pacific Ocean
+3554 south-eastern Turkey
+3555 southeastern Turkey
+3556 southeast Europe
+3557 Southeast Europe
+3558 southeast European
+3559 Southeast European
+3560 southeast Norway
+3561 South-Eeast
+3562 South End
+3563 southern Afghanistan
+3564 southern Africa
+3565 Southern Africa
+3566 southern African
+3567 Southern African
+3568 southern Africans
+3569 Southern Alps
+3570 Southern America
+3571 southern Angola
+3572 southern Argentina
+3573 southern Asia
+3574 Southern Asia
+3575 Southern Asian
+3576 southern Balkans
+3577 southern Beirut
+3578 southern Belize
+3579 Southern Belize
+3580 southern Bhutan
+3581 southern Bolivia
+3582 southern Bosnia
+3583 southern Brazil
+3584 southern Britain
+3585 southern California
+3586 Southern California
+3587 Southern Cameroon
+3588 Southern Cameroon 
+3589 southern Cameroonian
+3590 Southern Caucasian
+3591 southern Caucasus
+3592 Southern Caucasus
+3593 Southern Caucasus 
+3594 Southern Caucus
+3595 Southern Cement
+3596 southern Chad
+3597 southern Chechnya
+3599 southern Chile
+3600 Southern China
+3602 Southern Corridor
+3603 Southern Corridors
+3604 southern Costa Rica
+3605 Southern Cyprus
+3606 southern Darfur
+3607 Southern Darfur
+3608 southern Debub
+3609 Southern Development
+3611 southern Equateur
+3612 southern Équateur
+3613 southern Eritrea
+3614 southern Ethiopia
+3615 southern Europe
+3616 Southern Europe
+3617 southern European
+3618 Southern European
+3619 Southern Federal District
+3620 southern Finland
+3621 Southern Finland
+3622 southern Florida
+3623 southern Gaza
+3624 southern Gaza Strip
+3625 southern Georgia
+3626 Southern Governments
+3627 southern Governorates
+3628 southern Gujarat
+3629 southern Haiti
+3630 southern Hebron Hills
+3631 southern Hemisphere
+3632 Southern Hemisphere
+3633 southern Honduras
+3634 southern India
+3635 Southern India
+3636 southern Indian Ocean
+3637 Southern Indian Ocean
+3638 southern Iraq
+3639 Southern Islands
+3640 Southern Israel
+3641 southern Italy
+3642 southern Jordan
+3643 southern Kandahar
+3644 southern Katanga
+3645 southern Kivu
+3646 Southern Kordofan
+3647 southern Kosovo
+3648 southern Lebanese
+3649 Southern Lebanese
+3650 southern Lebanon
+3651 Southern Lebanon
+3652 Southern Madagascar
+3653 southern Mauritania
+3654 southern Mediterranean
+3655 Southern Mediterranean
+3656 southern Mehran
+3657 southern Mexico
+3658 southern Mitrovica
+3659 southern Mogadishu
+3660 southern Moravia
+3661 southern Morocco
+3662 southern Mozambique
+3663 Southern Mozambique
+3664 southern Mudug
+3665 southern Myanmar
+3666 Southern Nations
+3667 southern Negev
+3668 southern Nepal
+3669 southern New Caledonia
+3671 southern Niger
+3672 southern Nigeria
+3673 southern Nilotic
+3674 southern North Sea
+3675 southern Norway
+3676 Southern Ocean
+3677 Southern Oscillation
+3678 Southern Ossetia
+3679 southern Ostrobothnia
+3680 Southern Pacific
+3681 southern Pakistan
+3682 southern Philippines
+3683 Southern Philippines
+3684 southern Poland
+3685 Southern Province
+3686 Southern Provinces
+3687 Southern Railway
+3688 Southern Region
+3689 Southern Rhodesia
+3690 southern Rizeigat
+3691 Southern Route
+3692 southern Russia
+3693 southern Saharan
+3694 southern Samangan
+3695 Southern Schleswig
+3696 Southern Sector
+3697 southern Serbia
+3698 southern Serbian
+3699 southern Shamali
+3700 southern Shan
+3701 southern Somalia
+3702 Southern Somalia
+3703 southern South America
+3704 Southern South America
+3705 southern Spain
+3706 southern States
+3707 Southern States
+3709 southern Sudan
+3710 Southern Sudan
+3711 southern Sudanese
+3712 southern Sweden
+3713 southern Tajikistan
+3714 southern Taqtaqanah
+3715 southern Thailand
+3716 Southern Thailand
+3717 southern Transdanubia
+3718 southern Uganda
+3719 southern United States
+3720 southern United States of America
+3722 southern West Bank
+3723 southern Ye
+3724 southern Zimbabwe
+3725 South Europe
+3726 south European
+3727 South European
+3728 South Florida
+3729 South Georgia
+3730 South Gondar
+3731 south Guerrero
+3732 South Hamgyong
+3733 South Harbor
+3734 South Hebron
+3735 south Hebron Hills
+3736 South Hill
+3737 South Holland
+3738 South Iceland
+3739 south India
+3740 South India
+3741 south Iraq
+3742 South Island
+3743 south Jerusalem
+3744 South Jutland
+3745 South Kazakhstan
+3746 South Kivu
+3747 South Kivu Province
+3748 South Kivus
+3749 South Korea
+3750 South Koreans
+3751 South Lebanese
+3752 south Lebanon
+3753 South Lebanon
+3754 South Ledge
+3755 South Lobby
+3756 South Lounge
+3757 south Mediterranean
+3758 south Mogadishu
+3760 South Moluccas
+3761 South Moroccans
+3762 south Nicosia
+3763 South-North
+3764 South-North-
+3765 South Ossetia
+3766 South Ossetian
+3767 south Pacific
+3768 South Pacific
+3769 South Pacific Island
+3770 South Pacific Islands
+3771 South Pacific Ocean
+3772 South Pole
+3773 South Poles
+3774 South Power Station
+3775 South Province
+3776 South Provinces
+3778 South Rumailah
+3779 south-Sahelian
+3782 South Sea
+3784 South Shetland Island
+3785 South Side
+3786 South Slavic
+3787 south Somalia
+3788 South Somalia
+3789 South-south
+3790 South South
+3791 South-South
+3792 South- South
+3793 South-South-
+3794 SOUTH-SOUTH
+3795 South-South-related
+3796 South
+3797 South 
+3798 south Sudan
+3799 South Sudan
+3800 South Sulawesi
+3801 South Summit
+3802 South- Summit
+3803 South Summits
+3804 South The
+3805 south Trinidad
+3806 South Tyrol
+3807 south Wales
+3808 South Wales
+3809 South-west
+3810 South West
+3811 South-West
+3812 south-western Atlantic
+3813 south-western Australia
+3814 south-western Eritrea
+3815 south-western Guinea
+3816 south-western Iran
+3817 south-western Kyrgyzstan
+3818 south-western Madagascar
+3819 southwestern Saskatchewan
+3820 south-western United States
+3821 Southwest Islands
+3822 Southwest Network
+3823 Southwest Ontario
+3824 South Zone
+3825 Soviet Republic
+3826 Soviet Union
+3827 Spain
+3828 SPAIN
+3829 Srebrenica
+3830 Sri Lanka
+3831 SRI LANKA
+3832 Srpska
+3833 Stafford
+3834 Stanford
+3835 STANFORD
+3836 Stann Creek
+3837 State Headquarters
+3838 States
+3839 States of America
+3840 St Catherine
+3841 Steller sea
+3842 Stepanenko
+3843 Stewart Island
+3844 St. George
+3845 St Georges
+3846 st. helena
+3847 St. Helena
+3850 Stingray City
+3851 Stirling
+3852 St. Kitts
+3853 St. Kitts and Nevis
+3854 St Lawrence
+3855 St. Louis
+3856 St. Lucia
+3857 St. Maarten
+3858 Stockholm
+3859 Stockton
+3861 Stoughton
+3862 St. Paul
+3863 St. Paul River
+3864 St. Petersburg
+3865 St-Pierre
+3866 St. Pierre and Miquelon
+3867 Strachan
+3868 Strand
+3869 Strasbourg
+3870 Strengthening Headquarters
+3871 Structural
+3872 St. Thomas
+3873 St. Vincent
+3874 St. Vincent and the Grenadines
+3875 Sudan
+3876 SUDAN
+3877 Suez Bay
+3878 Suez Canal
+3879 suisse
+3880 Sukhumi
+3881 Sulaibikhat Bay
+3882 Sulawesi
+3883 Sulaymaniyah
+3884 Suleia
+3885 Sumatra
+3886 Sumgait
+3887 Sumgayit
+3888 Sun City
+3889 Sundsvall
+3890 Surabaya
+3891 Sustainable Mountain
+3892 Swains Island
+3893 SWAPO
+3894 Swaziland
+3895 Sweden
+3896 SWEDEN
+3897 Switzerland
+3898 SWITZERLAND
+3899 Sydney
+3900 Syrdarya River
+3901 Syria
+3902 Szolnok
+3903 Tadjikistan
+3904 Tafea Province
+3905 Tagant
+3906 Tahiti
+3907 Taipei
+3908 Taiwan
+3909 Taiwan Province
+3910 Taiwan Strait
+3911 Taiwan Straits
+3912 Tajikistan
+3913 Talas River
+3914 Tallinn
+3915 Tambacounda
+3916 Tamil
+3917 Tampa
+3918 Tampere
+3919 Tampico
+3920 Tanger
+3921 Tangier
+3923 Tanintharyi
+3924 Tanna
+3925 Tanzania
+3926 TANZANIA
+3927 Tarawa
+3928 Tarija
+3931 Tartus
+3932 Tashkent
+3933 Tasmania
+3934 Tasman Sea
+3935 Tawilla
+3936 Tayrona Park
+3937 Tbilisi
+3938 Tchad
+3941 Tegucigalpa
+3942 Teheran
+3943 Tehran
+3944 Tehran City
+3945 Tehran Province
+3946 Tel Aviv
+3947 Tenerife Island
+3948 TerrAfrica
+3949 Territorial Sea
+3950 Territory
+3951 Texas
+3952 Thailand
+3953 ThailanD
+3954 THAILAND
+3955 the Gulf
+3956 The Gulf
+3957 The Hague
+3958 the Netherlands
+3959 The Netherlands
+3960 the Persian Gulf
+3961 the valley
+3962 The Valley
+3963 Third Republic
+3964 Tibet
+3966 Tijuana
+3967 Timimoun
+3968 Timisoara
+3969 Timor Sea
+3970 Tim Wall
+3971 Tingo Maria
+3972 Tirana
+3973 Tlatelolco
+3974 Tlaxcala
+3976 tobago
+3977 Tobago
+3978 Toba Province
+3979 Togo
+3980 Togolese Republic
+3981 Tokelau
+3982 Tokmok
+3983 tokyo
+3984 Tokyo
+3985 TOKYO
+3986 Toledo
+3987 Toledo District
+3988 Tombali
+3989 Tombouctou
+3990 Tong
+3991 Tonga
+3992 Tonj
+3993 Tony Hill
+3994 Province
+3997 Toronto
+3998 Torreón
+3999 Torres Strait
+4000 Torres Straits
+4001 Tortola
+4002 Torun
+4003 Toulon
+4004 Toulouse
+4005 Toungoo District
+4007 Town
+4008 Trabzon
+4009 Trento
+4010 Trinidad
+4011 Trinidad and Tobago
+4012 Tripoli
+4013 Tripura
+4015 Tserona
+4016 Tshikapa
+4017 Tshopo River
+4018 Tskhinvali
+4019 Tsukuba
+4020 Tucumán
+4021 Tulkarem
+4022 Tulkarm
+4023 Tunis
+4024 TUNIS
+4025 Tunisia
+4026 Tunisian Republic
+4027 tunisie
+4028 Turin
+4029 Turkestan
+4030 turkey
+4031 Turkey
+4032 TURKEY
+4034 Turkmen
+4035 Turkmenistan
+4036 Turks and Caicos Islands
+4037 Turku
+4038 Tuscany
+4039 Tutuila
+4040 Tuvalu
+4041 Tuzla
+4042 Tyler
+4044 UAE
+4045 Ubangi
+4046 Ubangi River
+4047 Ubuntu Village
+4048 Udayapur District
+4049 Udmurt Republic
+4050 Uganda
+4051 UGANDA
+4052 Ugum River
+4053 Uige
+4055 uk
+4056 UK
+4057 U.K.
+4058 Ukhaydir
+4059 ukraine
+4060 Ukraine
+4061 UKRAINE
+4062 Ulaanbaatar
+4063 Ulladulla
+4066 UNAMA
+4070 UNCT
+4071 Unctad
+4075 UNESCO Headquarters
+4077 UNHCR
+4078 UNHCR Headquarters
+4079 UN Headquarters
+4080 UN HQ
+4081 UNICRI Headquarters
+4084 UNIDO Headquarters
+4085 United Arab 
+4086 United Arab Emirates
+4087 UNITED ARAB EMIRATES
+4088 United Kingdom
+4089 UNITED KINGDOM
+4090 United Kingdom of Great
+4091 United Nations 
+4092 United Nations, 
+4093 United Republic
+4094 United States
+4095 United States of America
+4096 UNITED STATES OF AMERICA
+4097 United States-Republic
+4098 United States Turkey
+4099 Universidad
+4101 Uruguay
+4102 URUGUAY
+4103 USA
+4104 U.S.A.
+4105 USA Province
+4106 Ushbayjah
+4108 Utah
+4111 Utrecht
+4112 Uva
+4113 Uvira
+4114 Uzbekistan
+4115 Vaduz
+4116 Valencia
+4117 VALENCIA
+4118 Valera
+4119 Valka District
+4120 Valladolid
+4121 Valletta
+4122 Valley
+4123 Vancouver
+4124 Vancouver Island
+4125 Vantaa
+4126 vanuatu
+4127 Vanuatu
+4128 Varadero
+4129 Vardak
+4131 Vaslui
+4132 Vatican
+4133 Vatican City
+4134 Vegas
+4135 Venezuala
+4136 Venezuela
+4137 VENEZUELA
+4138 Venice
+4139 Ventspils Castle
+4140 Veracruz
+4141 Verona
+4142 Versailles
+4143 Viborg
+4145 Vichy
+4147 vienna
+4148 Vienna
+4149 Vienna 
+4150 VIENNA
+4151 Vienne
+4152 Vientiane
+4153 vieques
+4154 Vieques
+4155 Vieques Island
+4156 Vieques Islands
+4157 Vietnam
+4160 Vigo
+4161 Villahermosa
+4162 Villanueva
+4163 VILLANUEVA
+4164 Vilnius
+4165 Vincent
+4167 Virginia
+4168 Virgin Island
+4169 Virgin Islands
+4170 Virunga Park
+4171 Vito Base
+4172 Vitoria
+4173 Vitosha Mountain
+4174 Vizcaya Province
+4175 Vladivostok
+4176 Vlora
+4177 Vlore
+4179 Vojvodina
+4180 Volos
+4181 Volta River
+4182 Vukovar
+4183 WAAS
+4184 Waddington
+4185 Wales
+4187 Wall
+4188 Wallis and Futuna
+4190 Walton
+4191 WAMCO
+4192 Wanica
+4193 Warsaw
+4194 Washington
+4195 Washington, DC
+4197 Waterford
+4198 Water Island
+4199 Wawel Castle
+4200 Wellington
+4202 Wells
+4203 west Africa
+4204 West Africa
+4205 west African
+4206 West African
+4207 West Africans
+4209 West Antarctic
+4210 west Argentina
+4211 west Asia
+4212 West Asia
+4213 West Asian
+4214 west Atlantic
+4215 west Bakaa
+4216 West Balkan
+4217 west bank
+4218 West Bank
+4219 West Bankers
+4220 West Bay
+4221 west Bekaa
+4222 West Bekaa
+4223 West Bengal
+4224 West Beqaa
+4225 West Berlin
+4226 West Caicos
+4227 west Darfur
+4228 West Darfur
+4229 West Division
+4230 west England
+4231 Western-affiliated State
+4232 western Afghanistan
+4233 western Africa
+4234 Western Africa
+4235 western African
+4236 Western African
+4237 western Arctic
+4238 Western Armenia
+4239 western Artic Ocean
+4240 western Asia
+4241 Western Asia
+4242 Western Asian
+4243 western Australia
+4244 Western Australia
+4245 western Bahr
+4246 western Balkan
+4247 Western Balkan
+4248 western Balkans
+4249 Western Balkans
+4250 western Bekaa
+4251 Western Bekaa
+4252 western Bengal
+4253 Western Beqa
+4254 Western Beqaa
+4255 Western Botswana
+4256 Western Brigade
+4257 western Bulgaria
+4258 western Burma
+4259 western Canada
+4260 Western Canada
+4261 Western Cape
+4262 Western Cape Province
+4263 western Caribbean
+4264 Western Central
+4265 western China
+4266 Western China
+4268 western Côte
+4269 western Darfur
+4270 Western Darfur
+4271 Western Desert
+4272 western Equatoria
+4273 Western Equatoria
+4274 western Eritrea
+4275 western Ethiopia
+4276 western Europe
+4277 Western Europe
+4278 western European
+4279 Western European
+4280 western Galilee
+4281 western Georgia
+4282 western Germany
+4283 Western Governors
+4284 Western Gulf of Mexico
+4285 Western Hemisphere
+4286 western Herzegovina
+4287 western India
+4288 Western Indian Ocean
+4289 western Iranian
+4290 western Iraq
+4291 western Japan
+4292 western Jebel
+4293 western Jenin
+4294 Western Kingston
+4295 western Kordofan
+4296 Western Kordofan
+4297 western Kosovo
+4298 western Kyrgyzstan
+4299 western Länder
+4300 western Liberia
+4301 Western Liberia
+4302 Western Mediterranean
+4303 Western Mongolia
+4305 western Nepal
+4306 Western Nepal
+4307 western North Atlantic
+4308 Western Ontario
+4309 western Pacific
+4310 Western Pacific
+4311 western Pacific Ocean
+4312 western Pakistan
+4313 Western Political
+4314 Western Pomerania
+4316 western Province
+4317 western Rwanda
+4318 Western Sahara
+4319 Western Saharan
+4320 Western Saharans
+4321 western Samaria
+4322 Western Sector
+4323 Western Sectors
+4324 Western Shoshone
+4325 western Siberia
+4326 Western Siberia
+4327 Western Sirmium
+4328 Western Slavonia
+4329 Western Somalia
+4330 western South America
+4331 Western Srem
+4332 western States
+4333 Western States
+4334 western Sudan
+4335 Western Sudan
+4336 Western Sydney
+4337 western Tanzania
+4338 Western Thrace
+4339 western Tigray
+4340 western Timor
+4341 Western Timor
+4342 western Turkey
+4343 western Uganda
+4344 Western Ukraine
+4345 western United States
+4346 western Venezuela
+4347 Western Wall
+4348 west Europe
+4349 West Europe
+4350 West European
+4351 West-European
+4352 West Falkland
+4353 West Foyer
+4354 West Georgia
+4355 West Germany
+4356 west Haiti
+4357 west India
+4358 West Indian
+4359 West Indies
+4360 west Iran
+4361 West Java
+4362 West Jerusalem
+4363 West Kalimantan
+4365 west Kordofan
+4366 West Kordofan
+4367 Westland
+4368 west Malaysia
+4369 West Midlands
+4370 westminster
+4371 Westminster
+4372 West Nile
+4373 West Oil
+4374 west Pacific Ocean
+4375 West Pakistan
+4376 West Papua
+4377 West Papua New Guinea
+4378 West Papuans
+4379 West Region
+4380 west Rwanda
+4381 West-side Boys
+4382 west Somalia
+4383 West Suite
+4384 West Sumatra
+4385 west Tajikistan
+4386 west Timor
+4387 West Timor
+4388 West Virginia
+4390 Whitehorse
+4391 White Sea
+4392 Wien
+4393 Wierda Park
+4394 Willett
+4395 Willow
+4396 Wilson
+4397 Wilton
+4398 Wiltshire
+4400 Windhoek
+4401 Windward Island
+4402 Windward Islands
+4403 Winnipeg
+4404 Winston
+4405 Wisconsin
+4406 WMO Headquarters
+4407 Woburn
+4408 Wokingham
+4410 World
+4411 Xinjiang
+4412 Xinjian Province
+4413 Yamaguchi
+4414 Yamoussoukro
+4416 Yanga
+4417 Yangon
+4418 Yangtze Delta
+4419 Yaounde
+4420 Yaoundé
+4421 Yarmouk
+4422 Yellow River
+4423 Yellow Sea
+4424 Yemen
+4425 YEMEN
+4426 Yenga
+4427 Yerevan
+4428 Yogyakarta
+4429 Yokohama
+4430 Yong Park
+4431 York
+4432 York City
+4433 Yucatan
+4434 Yucatán
+4435 Yugoslav 
+4436 yugoslavia
+4437 Yugoslavia
+4438 YUGOSLAVIA
+4439 Yugoslavia Republic
+4440 Yugoslav Republic
+4441 Yukon
+4442 Yunan Province
+4443 Yunnan
+4445 Zabol
+4446 Zacatecas
+4447 Zagora
+4448 Zagreb
+4449 Zahrani
+4450 Zahrani River
+4451 Zaire
+4452 Zalambessa
+4453 Zambezi River
+4454 Zambia
+4455 ZAMBIA
+4456 Zangelan District
+4457 Zanzibar
+4458 Zaragoza
+4459 Zarumilla Canal
+4460 Zealand
+4461 Zeebrugge
+4462 Zeeland
+4463 Zhejiang
+4464 Ziguinchor
+4465 Zimbabwe
+4466 ZIMBABWE
+4467 Zimbabwe Republic
+4468 Zone
+4470 Zurich
+4471 Zwedru
