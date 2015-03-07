@@ -7,4 +7,4 @@ we developed a bilingual Arabic-English lexicon of named entities (NE). The cons
 <h2>License</h2>
 
 If this resource is used for research, we kindly ask that you refer to the associated paper in your publications:
-Emna Hkiri, Mourad Mars, Souheyl Mallat mounir Zrigui. Lexicon of Arabic-English Named Entities based on SMT and Semantic Linked Data(To appear in xxxxxxxxxxxxxxxx)
+Emna Hkiri, Mourad Mars, Souheyl Mallat, Mounir Zrigui. Lexicon of Arabic-English Named Entities based on SMT and Semantic Linked Data(To appear in xxxxxxxxxxxxxxxx)
