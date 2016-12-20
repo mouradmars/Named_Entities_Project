@@ -31,6 +31,3 @@
 </table>
 
 <h4>License</h4>
-
-<p align="justify">If this resource is used for research, we kindly ask that you refer to the associated paper in your publications:</p>
-Emna Hkiri, Mourad Mars, Souheyl Mallat, Mounir Zrigui. Lexicon of Arabic-English Named Entities based on SMT and Semantic Linked Data(To appear in xxxxxxxxxxxxxxxx)
