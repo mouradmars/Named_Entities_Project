@@ -29,5 +29,3 @@
 		<td><b>65203</b></td>
 	</tr>
 </table>
-
-<h4>License</h4>
